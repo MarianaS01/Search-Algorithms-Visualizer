@@ -19,7 +19,6 @@ class SearchAlgorithms(object):
         pygame.time.delay(self.delay)  
 
     def get_path(self): 
-        print('CAMINO ENCONTRADO')
         path = []
         path.append(self.grid.goal)
         parent = self.grid.goal.parent
