@@ -87,6 +87,7 @@ class Grid(object):
         for cell in self.linear_grid:
             if cell.color != WHITE:
                 cell.color = WHITE
+            cell.parent = None
         self.origin = None
         self.goal = None
 
