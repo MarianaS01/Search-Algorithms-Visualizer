@@ -1,4 +1,5 @@
 import pygame
+import os
 from sys import exit
 from dimensions import *
 from colors import *
@@ -10,6 +11,11 @@ from a_star import AStar
 
 # intialize pygame
 pygame.init()
+
+# change logo
+path = os.path.abspath('assets/logo2.png')
+logo_img = pygame.image.load(path)
+pygame.display.set_icon(logo_img)
 
 window = pygame.display.set_mode(WINDOW_DIMS)
 pygame.display.set_caption("Search Algorithms Visualizer")
