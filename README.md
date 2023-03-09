@@ -34,7 +34,7 @@ git clone https://github.com/MarianaS01/Search-Algorithms-Visualizer.git
 
 After downloading the project, run the following commands in your terminal (depending on your OS):
 
-### Ubuntu or MacOS
+### Linux or Mac
 
 ### Windows
 
