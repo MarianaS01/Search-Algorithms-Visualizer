@@ -32,7 +32,7 @@ git clone https://github.com/MarianaS01/Search-Algorithms-Visualizer.git
 ### 2. Download the ZIP file
 You can download the ZIP file clicking the ```Download ZIP``` button as shown in the picture below.
 
-![Download ZIP](https://user-images.githubusercontent.com/78234785/224163046-0b5c614d-1f46-402e-8e38-4257c8018d94.png)
+![Download ZIP](![image](https://user-images.githubusercontent.com/78234785/224163634-9566dbb9-9b9a-4513-bd89-84c972a6767a.png))
 
 
 After downloading, unzip the folder in your preferred directory.
