@@ -35,9 +35,16 @@ git clone https://github.com/MarianaS01/Search-Algorithms-Visualizer.git
 After downloading the project, run the following commands in your terminal (depending on your OS):
 
 ### Linux or Mac
+```
+cd Search-Algorithms-Visualizer/
+python3 code/main.py
+```
 
 ### Windows
-
+```
+cd Search-Algorithms-Visualizer\
+python code\main.py
+```
 
 ## **How to use it**
 
