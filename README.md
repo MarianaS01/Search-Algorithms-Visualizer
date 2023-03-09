@@ -54,9 +54,19 @@ python code\main.py
 ```
 
 ## **How to use it**
+The program has a grid in which the selected algorithm will find the destination given an origin an a goal, even with obstacles. It also has some buttons that will let the user interact with the program, this buttons are described below.
+* **SET ORIGIN**: This button will let you select a cell as origin, this cell will be colored BLUE. 
+* **SET GOAL**: This button will let you select a cell as goal, this cell will be colored RED.
+* **BLOCK/UNBLOCK CELLS**: When clicked, this button will let you block or unblock cells of the grid to form obstacles, you only need to click the button once to select this option, if you want to unblock a cell that was previously blocked, you just need to click it again.
+* **SPEED**: The speed buttons will let you increase or decrease the speed of the algorithm visualization.
+* **DELETE PATH**: This button comes in handy when you already have run one algorithm and you want to select another without deleting the grid you have. The button will just delete the path and process found by the previous algorithm.
+* **CLEAN GRID**: With this button you will clean completely the grid, deleting previous colored cells.
+* **SELECT ALGORITHM**: This button displays a menu containing the algorithms available to select.
+* **START SEARCH**: This button starts the search using the algorithm previously selected.
 
 ### Demo video
+Here you have a video that shows the program in action.
 https://user-images.githubusercontent.com/78234785/218279660-58483187-57f1-4252-90bc-e72e86201f7c.mp4
 
 ## **Future Work**
-
+The next goal for this project is to add more algorithms.
