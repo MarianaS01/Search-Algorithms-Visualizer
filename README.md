@@ -22,7 +22,7 @@ There are two options for downloading this project to your computer:
 2. Download the ZIP file
 
 ### 1. Clone the repository
-1. To clone the repo to your computer, you need to access the folder in which you would like to have the project.
+1. To clone the repo to your computer, access the folder in which you would like to have the project.
 2. Open the terminal on that folder
 3. Run this command in the terminal:
 ```
